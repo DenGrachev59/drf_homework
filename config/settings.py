@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'dotenv',
     'rest_framework',
     'users',
+    'materials',
 ]
 
 MIDDLEWARE = [
